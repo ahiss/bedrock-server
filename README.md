@@ -1,0 +1,2 @@
+# bedrock-server
+# read-me
